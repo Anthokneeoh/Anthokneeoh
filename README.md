@@ -1,10 +1,15 @@
 ### Hola 👋  I'm Anthony Okolie
 
-🚀 Currently building AI-powered platforms and fintech products across Africa  
-🌱 Exploring MLOps, prompt engineering, and product-led growth strategies  
-👯 Open to collaborating on impactful tech, product, and data-driven projects  
-💬 Ask me about Product Delivery, ML Model Evaluation (Precision/Recall), Software Quality Assurance, APIs, and transitioning from civil engineering to tech  
-📫 Reach me at: mikeozhil@gmail.com  
+🚀 Currently building AI-powered platforms and fintech products across Africa
+
+🌱 Exploring MLOps, prompt engineering, and product-led growth strategies
+
+👯 Open to collaborating on impactful tech, product, and data-driven projects
+
+💬 Ask me about Product Delivery, ML Model Evaluation (Precision/Recall), Software Quality Assurance, APIs, and transitioning from civil engineering to tech
+
+📫 Reach me at: mikeozhil@gmail.com
+
 ⚡ Fun fact: **I co-authored two books on Crypto: *"Before You Trade Crypto"* and *"The Airdrop Bible"*.**  
 
 ---
