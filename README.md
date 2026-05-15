@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Technical Project & Product Manager** with 6+ years of experience spanning:
+I'm a **Technical Project & Product Manager** with 7+ years of experience spanning:
 - **AI/ML Product Delivery** (model evaluation, prompt engineering, software quality assurance)
 - **FinTech & InsurTech Platforms** (crypto, payments, insurance)
 - **API Integrations**
