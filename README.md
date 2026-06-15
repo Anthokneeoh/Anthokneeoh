@@ -1,30 +1,36 @@
-### Hola 👋  I'm Anthony Okolie
+### Hi, I'm Anthony Okolie 👋
 
-🚀 Currently building AI-powered platforms and fintech products across Africa
+Technical Product Manager focused on product delivery, software quality, AI-powered applications, and platform integrations.
 
-🌱 Exploring MLOps, prompt engineering, and product-led growth strategies
+Currently building across:
+- Fintech & Insurtech Platforms
+- AI Applications & LLM Workflows
+- Product Operations & Automation
+- API Integrations & Backend Systems
 
-👯 Open to collaborating on impactful tech, product, and data-driven projects
+### What I Do
 
-💬 Ask me about Product Delivery, ML Model Evaluation (Precision/Recall), Software Quality Assurance, APIs, and transitioning from civil engineering to tech
+- Lead cross-functional product and engineering delivery
+- Design and validate product requirements
+- Perform API, integration, regression, and exploratory testing
+- Build and prototype MVPs using modern AI-assisted development workflows
+- Translate business problems into scalable technical solutions
 
-📫 Reach me at: mikeozhil@gmail.com
+### Current Areas of Interest
 
-⚡ Fun fact: **I co-authored two books on Crypto: *"Before You Trade Crypto"* and *"The Airdrop Bible"*.**  
+- AI Product Development
+- MLOps & Model Evaluation
+- Prompt Engineering
+- Platform Architecture
+- Product Analytics
 
----
+### Selected Domains
 
-## 👨‍💻 About Me
-
-I'm a **Technical Project & Product Manager** with 7+ years of experience spanning:
-- **AI/ML Product Delivery** (model evaluation, prompt engineering, software quality assurance)
-- **FinTech & InsurTech Platforms** (crypto, payments, insurance)
-- **API Integrations**
-- **Construction Engineering** (site supervision, sustainable housing)
-
-I thrive at the intersection of **technical execution, product strategy, and systems thinking**, and I’ve led cross-functional teams to ship scalable solutions in regulated environments.
-
----
+- Insurance Technology
+- Financial Services
+- Payments Infrastructure
+- Identity Verification (KYC)
+- Property Technology
 
 ## 🛠️ Tools & Technologies
 
