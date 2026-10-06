@@ -42,8 +42,10 @@ Currently building across:
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/ClearML-000000?style=for-the-badge&logo=clearml&logoColor=white" />
 <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 ---
 
@@ -55,7 +57,7 @@ Computer vision model trained to detect vehicle damage and classify severity. De
 ### 🎵 Spotify Mood Recommendation (Prompt Engineering + Poe.com)
 AI-powered music recommendation system based on user mood input. Uses prompt engineering to personalize playlists.
 
-### 🗣️ Voice Analysis Tool (Gemini 3)
+### 🗣️️ Voice Analysis Tool (Gemini 3)
 Analyzes speech clarity, pitch, and confidence. Provides feedback using LLMs and NLP scoring logic.
 
 ---
